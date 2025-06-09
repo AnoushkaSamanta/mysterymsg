@@ -119,8 +119,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have any questions or need help with setup, please open an issue on GitHub or reach out through the anonymous feedback link! 😉
+If you have any questions or need help with setup, please open an issue on GitHub or reach out through the anonymous feedback link! 
 
 ---
+
+![Screenshot 2025-06-09 102301](https://github.com/user-attachments/assets/e005c4fb-b4f2-4ad3-b0dd-f2542abfb462)
+
+![Screenshot 2025-06-09 102503](https://github.com/user-attachments/assets/aebaa5a3-2421-427a-a767-c1b87722c921)
+
+
+![Screenshot 2025-06-09 102503](https://github.com/user-attachments/assets/6f6b9bb5-23f6-48a3-b611-14b0c27fcb03)
+
+
+![Screenshot 2025-06-09 102522](https://github.com/user-attachments/assets/0abe6935-08d9-4420-9edc-deb09d4868d9)
+
 
 **Made with ❤️ for secure and anonymous communication**
